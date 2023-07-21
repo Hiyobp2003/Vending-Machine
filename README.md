@@ -1,4 +1,4 @@
-# Vending-Machine
+# Project description
 This vending machine is designed keeping in mind the following assumptions for simplicity:
 1. Accepted denominations of money are Rs. 5 and Rs. 10
 2. This machine sells only one item of cost Rs. 15
